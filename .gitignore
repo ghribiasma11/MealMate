@@ -1,0 +1,26 @@
+# Root workspace files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Laravel backend
+backend/.env
+backend/.env.*
+backend/vendor/
+backend/node_modules/
+backend/public/build/
+backend/public/hot
+backend/storage/*.key
+backend/storage/pail/
+backend/.phpunit.cache/
+
+# Flutter app
+flavorcraft/.dart_tool/
+flavorcraft/.flutter-plugins
+flavorcraft/.flutter-plugins-dependencies
+flavorcraft/.pub-cache/
+flavorcraft/.pub/
+flavorcraft/build/
+flavorcraft/android/app/.cxx/
+flavorcraft/ios/Flutter/.last_build_id
+flavorcraft/web/
