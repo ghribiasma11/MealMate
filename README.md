@@ -1,2 +1,23 @@
-# flavorCraft
-FlavorCraft est une application de cuisine full-stack avec un backend Laravel et une app Flutter Web/Mobile. Elle permet de gérer les ingrédients, trouver des recettes, les favoris, le profil utilisateur, le meal planning, la liste de courses et l’authentification.
+# FlavorCraft
+
+FlavorCraft est une application de cuisine full-stack composée de deux parties :
+
+- `backend/` : API Laravel + MySQL
+- `flavorcraft_1778176569062/` : application Flutter
+
+L’application permet de :
+- s’inscrire et se connecter
+- gérer son profil
+- consulter les recettes depuis la base de données
+- marquer des recettes en favoris
+- utiliser le mode cuisson
+- gérer une liste de courses
+- organiser des repas
+- changer le thème et la langue de l’application
+
+## Structure du projet
+
+```text
+flavor/
+├── backend/                  # API Laravel
+└── flavorcraft_1778176569062/ # App Flutter
