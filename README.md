@@ -1,6 +1,6 @@
-# FlavorCraft
+# MealMate
 
-FlavorCraft est une application de cuisine full-stack composée de deux parties :
+MealMate est une application de cuisine full-stack composée de deux parties :
 
 - `backend/` : API Laravel + MySQL
 - `flavorcraft_1778176569062/` : application Flutter
